@@ -19,7 +19,7 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-6">
-                <img class="img-responsive" src="../asset/img/asset1.png" alt="">
+                <img class="img-responsive" src="../assets/img/asset1.png" alt="">
             </div>
             <div class="col-md-6">
                 <h2>About Flixmates</h2>
