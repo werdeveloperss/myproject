@@ -11,21 +11,21 @@
         <div class="carousel-inner">
             <div class="item active">
             <a href="cnews1.html">
-                <div class="fill"><img src="../assets/img/film.png" width="100%" height="100%"></div>				
+                <div class="fill"><img src="../assets/img/caru/film.png" width="100%" height="100%"></div>				
                 <div class="carousel-caption">
                     <!--<h2 style="color:black;">Caption 1</h2>-->
                 </div></a>
             </div>
             <div class="item">
             <a href="cnews2.html">
-                <div class="fill"><img src="../assets/img/kkk.png" width="100%" height="100%"></div>
+                <div class="fill"><img src="../assets/img/caru/kkk.png" width="100%" height="100%"></div>
                 <div class="carousel-caption">
                     <!--<h2>Caption 2</h2>-->
                 </div></a>
             </div>
             <div class="item">
             <a href="cnews3.html">
-                <div class="fill"><img src="../assets/img/shraddha.png" width="100%" height="100%"></div>
+                <div class="fill"><img src="../assets/img/caru/shd.png" width="100%" height="100%"></div>
                 <div class="carousel-caption">
                     <!--<h2>Caption 3</h2>-->
                 </div></a>
